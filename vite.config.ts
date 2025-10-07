@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // 🚨 CORREÇÃO APLICADA AQUI:
-  base: '/lagarttustest/', 
+  base: '/lagarttustest', 
   
   server: {
     host: "::",
